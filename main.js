@@ -6,7 +6,7 @@ const random1 = `${__dirname}/data/text1.txt`;
 const random2 = `${__dirname}/data/text2.txt`;
 const random3 = `${__dirname}/data/text3.txt`;
 
-const files = [random1, random2, random3];
+const files = [text1, text2, text3];
 
 const array = [];
 
