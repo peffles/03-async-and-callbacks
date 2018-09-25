@@ -15,7 +15,7 @@ Write code and tests.
 
 ## Architecture
 
-JavaScript
- Node
- ESLint
- Jest
+- JavaScript
+- Node
+- ESLint
+- Jest
