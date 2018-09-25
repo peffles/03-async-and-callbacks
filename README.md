@@ -1,7 +1,7 @@
 # 401 JS Lab 03 Async
 
 **Author**: Wyatt Pefley
-**Version**: 1.0.0 
+**Version**: 1.0.1 
 ## Build Status: [![Build Status](https://travis-ci.com/peffles/03-async-and-callbacks.svg?branch=master)](https://travis-ci.com/peffles/03-async-and-callbacks)
 ___
 ## Overview
